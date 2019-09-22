@@ -8,10 +8,6 @@ A PHP script can be placed anywhere in the document.
 
 A PHP script starts with <?php and ends with ?>:
 
-code <?php
-// PHP code goes here
-?>"
-
 The default file extension for PHP files is ".php".
 
 A PHP file normally contains HTML tags, and some PHP scripting code.
