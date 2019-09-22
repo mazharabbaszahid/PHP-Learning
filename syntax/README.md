@@ -8,7 +8,7 @@ A PHP script can be placed anywhere in the document.
 
 A PHP script starts with <?php and ends with ?>:
 
-"<?php
+code <?php
 // PHP code goes here
 ?>"
 
